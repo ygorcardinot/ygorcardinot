@@ -6,7 +6,8 @@
   - Email: ygor.cardinot@gmail.com
   - Phone: +55 22 992012784
   - Whatsapp: https://bit.ly/3siggyx
-  - Telegram: tg://resolve?domain=YgorCardinot
+  - Telegram: https://t.me/YgorCardinot
+  - Behance: https://www.behance.net/ygor-cardinot
 
 <!---
 ygorcardinot/ygorcardinot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
