@@ -2,6 +2,7 @@
 - 👀 I’m interested mainly in Mobile Development, FLutter, Kotlin, UX/UI
 - 🌱 I’m currently learning Flutter, Kotlin, Python and Figma
 - 💞️ I’m looking to collaborate on IT Companies
+- 💼 Currently working as a Software Developer Intern at NetWord Consultoria e Tecnologia
 - 📫 Your can reach me by:
   - Email: ygor.cardinot@gmail.com
   - Phone: +55 22 992012784
