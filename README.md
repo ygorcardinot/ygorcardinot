@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ygorcardinot
-- 👀 I’m interested mainly in Mobile Development, FLutter, Kotlin, UX/UI
-- 🌱 I’m currently learning Flutter, Kotlin, Python and Figma
+- 👀 I’m interested mainly in Mobile Development, Flutter, Kotlin, UX/UI and React
+- 🌱 I’m currently learning about React, Ruby and Jenkins.
 - 💞️ I’m looking to collaborate on IT Companies
-- 💼 Currently working as a Software Developer Intern at NetWord Consultoria e Tecnologia
+- 💼 Currently working as a Quality Analyst at Sofist 
 - 📫 Your can reach me by:
   - Email: ygor.cardinot@gmail.com
   - Phone: +55 22 992012784
