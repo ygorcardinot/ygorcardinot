@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Giga Byte!
+# 👋 Olá! Eu sou o Ygor de Almeida Cardinot!
 
 Sou apaixonado por tecnologia, desenvolvimento mobile e experiências digitais que realmente façam a diferença. 🚀
 
