@@ -32,8 +32,7 @@ Sou apaixonado por tecnologia, desenvolvimento mobile e experiências digitais q
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username/)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ygorcardinot/)
 
 ---
 
